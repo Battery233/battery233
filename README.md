@@ -1,7 +1,16 @@
-### Hi there 👋
+### Hi there 👋 
+
+<img align="center" src="https://battery233-visitor-badge.glitch.me/badge?page_id=battery233"/>
+
+<a href="https://github.com/battery233">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=battery233&count_private=true&show_icons=true&hide=stars"/>
+</a>
+<a href="https://github.com/battery233">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=battery233&hide=jupyter%20notebook&layout=compact&langs_count=10"/>
+</a>
 
 <!--
-**Battery233/Battery233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Battery233/battery233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
